@@ -20,5 +20,50 @@ IoT 개발자 미니프로젝트 리포지토리
     - 요구사항 리스트 문서전달
     - 기능명세 문서
     - DB설계 ERD 또는 SSMS 물리적DB설계 
-    - UI/UX디자인 16일(목) 내용전달
+    - UI/UX디자인
 
+## 2일차
+- 미니프로젝트
+    - 프로젝트 문서(금요일 다시)
+    - Notion 팀 프로젝트 템플릿 활용
+    - UI/UX디자인 툴 설명
+        - https://ovenapp.io/ 카카오 
+        - https://www.figma.com/ 피그마
+        - https://app.moqups.com/ 목업디자인 사이트
+    - 프리젠테이션
+        - https://www.miricanvas.com/ko 미리캔버스 활용 추천
+    - 라즈베리파이(RPi) 리셋팅, 네트워크 설정, VNC(OS UI작업)
+
+- 스마트홈 연동 클래스 미니프로젝트
+    1. 요구사항 정의, 기능명세, 일정정리
+    2. UI/UX 디자인
+        - RPi는 디자인 없음(콘솔)
+        - 데이터 수신앱
+        - 모니터링 앱
+    3. DB설계
+    4. RPi 셋팅(Network)
+    5. RPi GPIO, IoT디바이스 연결(카메라, HDT센서, RGB LED, ...)
+    6. RPi 데이터 전송 파이썬 프로그래밍
+    7. PC(Server) 데이터 수신 C# 프로그래밍
+    8. 모니터링 앱 개발(수신 및 송신)
+
+## 3일차
+- 미니프로젝트
+    - 실무 프로젝트 문서
+    - Jira 사용법 
+    - 조별로 진행
+
+- 라즈베리파이 셋팅 
+    1. RPi 기본 구성 - RPi + MicroSD + Power
+    2. RPi 기본 셋팅
+        [x] 최신 업그레이드
+        [x] 한글화
+        - 키보드 변경
+        [x] 화면사이즈 변경(RealVNC사용)
+        - Pi Apps 앱설치 도우미 앱
+        - Github Desktop, VS Code
+        - 네트워크 확인
+        - RealVNC Server 자동실행 설정
+
+- 스마트홈 연동 클래스 미니프로젝트
+    - RPi 셋팅... 진행
