@@ -62,7 +62,7 @@ IoT 개발자 미니프로젝트 리포지토리
         - [x] 화면사이즈 변경(RealVNC사용)
         - [x] Pi Apps 앱설치 도우미 앱
         - [x] Github Desktop, VS Code
-        - [x] 네트워크 확인
+        - [X] 네트워크 확인
         - RealVNC Server 자동실행 설정
 
 - 스마트홈 연동 클래스 미니프로젝트
